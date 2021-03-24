@@ -1,6 +1,6 @@
 <html>
 <center><h1>ATENÇÂO</h1>
-  <img src="http://guiihcolusso.ddns.net/1/logo.png" alt="some text" width=60 height=40>
+  <img src="http://guiihcolusso.ddns.net/1/logo.png" alt="some text" width=250 height=250>
   </center>
   
 Olá, Tudo bem ?
