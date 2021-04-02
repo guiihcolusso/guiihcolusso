@@ -18,7 +18,3 @@ Copyright - Guilherme Colusso / Todos os direitos reservados.
 ### Sobre mim
 
 Meu nome é Guilherme Tenho Tenho 18 anos, comecei minha carreira em desenvolvimento de sistemas no final de 2015, desde então venho me aprimorando e buscando cada vez mais conhecimento. Sempre em busca de uma oportunidade de colocar em prática o que já aprendi.
-
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
