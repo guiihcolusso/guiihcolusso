@@ -10,6 +10,8 @@ Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade d
 
 Copyright - Guilherme Colusso / Todos os direitos reservados.
 
+![alt text](https://avatars.githubusercontent.com/u/80711211?s=400&u=6d7d1cc0725510dbca42d8d9de2ee62da55fb00a&v=4)
+
 ### CONTATO
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guiihcolusso)](https://github.com/guiihcolusso)
