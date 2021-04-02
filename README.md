@@ -18,7 +18,7 @@ Copyright - Guilherme Colusso / Todos os direitos reservados.
  <br />
  <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) 
+[![instagram Badge](https://img.shields.io/badge/-@guiiihcolusso-1ca0f1?style=flat-square&labelColor=3f729b& logo=instagram&logoColor=white&link=https://www.instagram.com/guiiihcolusso/)](https://twitter.com/tgmarinho) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiihpcolusso/)](https://www.linkedin.com/in/guiihpcolusso/) 
 
