@@ -1,6 +1,6 @@
 # Olá, tudo Bem? :D
 
-### SOBRE MIM
+### SOBRE MIM -
 
 Meu nome é Guilherme Tenho Tenho 18 anos, comecei minha carreira em desenvolvimento de sistemas no final de 2015, desde então venho me aprimorando e buscando cada vez mais conhecimento. Sempre em busca de uma oportunidade de colocar em prática o que já aprendi.
 
