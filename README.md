@@ -11,7 +11,7 @@ Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade d
 Copyright - Guilherme Colusso / Todos os direitos reservados.
   
 <p align="center">
-  <img width="300" height="300" src="https://i.imgur.com/i2mIvAg.png">
+  <img width="400" height="400" src="https://i.imgur.com/i2mIvAg.png">
 </p>
 
 ### CONTATO
