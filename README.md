@@ -18,8 +18,8 @@ Copyright - Guilherme Colusso / Todos os direitos reservados.
  <br />
  <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
+[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) 
 
-Feito com ❤️ por Thiago Marinho 👋🏽 Entre em contato!
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiihpcolusso/)](https://www.linkedin.com/in/guiihpcolusso/) 
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiihpcolusso/)](https://www.linkedin.com/in/guiihpcolusso/) 
 [![Gmail Badge](https://img.shields.io/badge/-guiihcolusso.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guiihcolusso.dev@gmail.com)](mailto:guiihcolusso.dev@gmail.com)
