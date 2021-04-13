@@ -2,7 +2,7 @@
 
 ### SOBRE MIM
 
-Meu nome é Guilherme Tenho 18 anos, comecei minha carreira em desenvolvimento de sistemas no final de 2015, desde então me aprimoro e buscando aprimorar mais meu conhecimento. Sempre em busca de uma oportunidade de colocar em prática o que já aprendi.
+Meu nome é Guilherme Tenho 18 anos, comecei minha carreira em desenvolvimento de sistemas no final de 2015, desde então buscando aprimorar mais meu conhecimento. Sempre em busca de uma oportunidade de colocar em prática o que já aprendi.
 
 <p align="center">
   <img width="250" height="250" src="https://i.imgur.com/i2mIvAg.png">
