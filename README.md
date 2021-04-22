@@ -12,11 +12,11 @@ Meu nome é Guilherme Tenho 18 anos, comecei minha carreira em desenvolvimento d
 ### INFORMAÇÕES
 
 
+- 🔭 Estou trabalhando no Projeto -  Demo Day Instituto PROA
 - 🌱 Estou aprendendo: HTML,CSS e JavaScript
-- 
 - 📫 E-mail para contato: guiihcolusso.dev@gmail.com
 
-Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza entre em contato.
+Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza
 
 Copyright - Guilherme Colusso / Todos os direitos reservados.
 
