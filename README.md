@@ -8,11 +8,19 @@ Meu nome é Guilherme Tenho 18 anos, comecei minha carreira em desenvolvimento d
   <img width="250" height="250" src="https://i.imgur.com/i2mIvAg.png">
 </p>
 
+
 ### INFORMAÇÕES
 
-Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza: guiihcolusso.dev@gmail.com
+
+- 🌱 Estou aprendendo: HTML,CSS e JavaScript
+- 
+- 📫 E-mail para contato: guiihcolusso.dev@gmail.com
+
+Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza entre em contato.
 
 Copyright - Guilherme Colusso / Todos os direitos reservados.
+
+
 
 ### CONTATO
 
