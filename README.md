@@ -13,7 +13,7 @@ Meu nome é Guilherme Tenho 18 anos, comecei minha carreira em desenvolvimento d
 
 
 - 🔭 Estou trabalhando no Projeto -  Demo Day Instituto PROA
-- 🌱 Estou aprendendo: JAVA
+- 🌱 Estou aprendendo: Java
 - 📫 E-mail para contato: guiihcolusso.dev@gmail.com
 
 
