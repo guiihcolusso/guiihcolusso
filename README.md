@@ -53,10 +53,9 @@
       <img height='150' src='https://github-readme-stats.vercel.app/api?username=guiihcolusso&show_icons=true&theme=dark'>
     </td>
   </row>
-</table>
+</table><br>
 
-
-<br><br><br><br>### CONTATO
+### CONTATO
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guiihcolusso)](https://github.com/guiihcolusso)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiihpcolusso/)](https://www.linkedin.com/in/guiihpcolusso/)
