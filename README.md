@@ -2,7 +2,7 @@
 
 ### SOBRE MIM
 
-<img align="right" src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/user.png?raw=true" width="300"/>
+<img align="right" src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/user.png" width="300"/>
 
 <p>Meu nome é Guilherme Tenho 18 anos, comecei minha carreira em desenvolvimento de sistemas no final de 2015, desde então buscando aprimorar mais meu conhecimento. Sempre em busca de uma oportunidade de colocar em prática o que já aprendi.</p>
 
@@ -15,11 +15,11 @@
 
 <p>- 🌱 Estou aprendendo:</p> <p align="left">
   <!-- HTML Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/html.png?raw=true">&nbsp;
+  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/html.png">&nbsp;
   <!-- CSS Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/css.png?raw=true">&nbsp;
+  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/css.png">&nbsp;
   <!-- JS Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/js.png?raw=true">&nbsp;
+  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/js.png">&nbsp;
   <!-- Java Icon -->
   <img height='40' src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/python.png?raw=true">&nbsp;
   <!-- Python Icon -->
