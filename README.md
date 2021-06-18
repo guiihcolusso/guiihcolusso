@@ -1,8 +1,8 @@
 <h1  align="center"> Olá, tudo Bem? :D</h1>
 
-### SOBRE MIM
-
 <img align="right" src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/user.png" width="300"/>
+
+### SOBRE MIM
 
 <p>Meu nome é Guilherme Tenho 18 anos, comecei minha carreira em desenvolvimento de sistemas no final de 2015, desde então buscando aprimorar mais meu conhecimento. Sempre em busca de uma oportunidade de colocar em prática o que já aprendi.</p>
 
@@ -13,7 +13,7 @@
 
 <p>- 🔭 Estou trabalhando no Projeto -  Demo Day Instituto PROA</p>
 
-<br><br><br>
+<br>
 
 <p>- 🌱 Estou aprendendo:</p> <p align="left">
   <!-- HTML Icon -->
@@ -43,7 +43,7 @@
 </p>
 
 
-<br><br><br>
+<br>
 
 Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem 
 
