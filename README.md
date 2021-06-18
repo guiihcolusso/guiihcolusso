@@ -55,7 +55,4 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/MasTeer404)](https://www.youtube.com/c/MasTeer404)
 
 Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem 
-
-<p>- 📫 E-mail para contato: guiihcolusso.dev@gmail.com</p>
-
 Copyright - Guilherme Colusso / Todos os direitos reservados.
