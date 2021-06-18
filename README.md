@@ -13,6 +13,8 @@
 
 <p>- 🔭 Estou trabalhando no Projeto -  Demo Day Instituto PROA</p>
 
+<br><br><br>
+
 <p>- 🌱 Estou aprendendo:</p> <p align="left">
   <!-- HTML Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/html.png">&nbsp;
