@@ -27,11 +27,12 @@
   
 </p>
 
-<p>- 📫 E-mail para contato: guiihcolusso.dev@gmail.com</p>
 
 <br><br><br>
 
 Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem 
+
+<p>- 📫 E-mail para contato: guiihcolusso.dev@gmail.com</p>
 
 Copyright - Guilherme Colusso / Todos os direitos reservados.
 
