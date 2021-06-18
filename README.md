@@ -59,9 +59,7 @@
 
 <br><br><br><br><br><br><br>
 
-<h1>CONTATO</h1>
-
-
+###CONTATO
 
 <p>Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem.</p>
 
