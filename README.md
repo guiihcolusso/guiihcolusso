@@ -35,7 +35,7 @@
   <!-- Node Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/nodejs.png">&nbsp;
   <!-- django Icon -->
-  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/django.png">&nbsp;
+  <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/django.png">&nbsp;
   <!-- Git Icon -->
   <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/git.png">&nbsp;  
 </p>
