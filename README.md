@@ -59,10 +59,10 @@
 
 <br>
 
-<p>CONTATO</p>
+<h1>CONTATO</h1>
 
 
 
-Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem.
+<p>Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem.</p>
 
-Copyright - Guilherme Colusso / Todos os direitos reservados.
+<p>Copyright - Guilherme Colusso / Todos os direitos reservados.</p>
