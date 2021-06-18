@@ -20,10 +20,10 @@
   <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/css.png?raw=true">&nbsp;
   <!-- JS Icon -->
   <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/js.png?raw=true">&nbsp;
-  <!-- React Icon -->
+  <!-- Java Icon -->
   <img height='40' src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/python.png?raw=true">&nbsp;
-  <!-- Git Icon -->
-  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/git.png?raw=true">&nbsp;
+  <!-- Python Icon -->
+  <img height='40' src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/python.png?raw=true">&nbsp;
   
 </p>
 
