@@ -12,9 +12,9 @@ Meu nome é Guilherme Tenho 18 anos, comecei minha carreira em desenvolvimento d
 ### INFORMAÇÕES
 
 
-- 🔭 Estou trabalhando no Projeto -  Demo Day Instituto PROA
+<p>- 🔭 Estou trabalhando no Projeto -  Demo Day Instituto PROA</p>
+<p>- 🌱 Estou aprendendo:</p>
 <p align="left">
-  <p>- 🌱 Estou aprendendo: </p>
   <!-- HTML Icon -->
   <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/html.png?raw=true">&nbsp;
   <!-- CSS Icon -->
