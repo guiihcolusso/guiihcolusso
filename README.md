@@ -55,3 +55,5 @@
 Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem.
 
 Copyright - Guilherme Colusso / Todos os direitos reservados.
+
+<img height='172' src='https://github-readme-stats.vercel.app/api?username=guiihcolusso&show_icons=true&theme=dark'>
