@@ -45,6 +45,8 @@
   <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/git.png">&nbsp;  
 </p>
 
+<br><br><br>
+
 <table align='left'>
   <row>
     <td>
@@ -59,7 +61,7 @@
 
 <br><br><br><br><br><br><br>
 
-###CONTATO
+### CONTATO
 
 <p>Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem.</p>
 
