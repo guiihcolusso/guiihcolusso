@@ -27,6 +27,19 @@
   
 </p>
 
+<p>- 🌱 Tenho interesse::</p>
+
+<p align="left">
+  <!-- React.JS Icon -->
+  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/react.png">&nbsp;
+  <!-- Node Icon -->
+  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/nodejs.png">&nbsp;
+  <!-- django Icon -->
+  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/django.png">&nbsp;
+  <!-- Git Icon -->
+  <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/git.png">&nbsp;  
+</p>
+
 
 <br><br><br>
 
