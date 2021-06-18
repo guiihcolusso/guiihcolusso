@@ -56,4 +56,8 @@ Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade d
 
 Copyright - Guilherme Colusso / Todos os direitos reservados.
 
+<br>
+
 <img height='172' src='https://github-readme-stats.vercel.app/api?username=guiihcolusso&show_icons=true&theme=dark'>
+
+<img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=guiihcoluss&layout=compact&theme=dark'>
