@@ -28,7 +28,7 @@ Meu nome é Guilherme Tenho 18 anos, comecei minha carreira em desenvolvimento d
   
 </p>
 
-<p>📫 E-mail para contato: guiihcolusso.dev@gmail.com</p>
+<p>- 📫 E-mail para contato: guiihcolusso.dev@gmail.com</p>
 
 
 Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem 
