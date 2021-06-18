@@ -12,9 +12,8 @@
 
 
 <p>- 🔭 Estou trabalhando no Projeto -  Demo Day Instituto PROA</p>
-
+<p>- 📫 E-mail para contato: guiihcolusso.dev@gmail.com</p>
 <br>
-
 <p>- 🌱 Estou aprendendo:</p> <p align="left">
   <!-- HTML Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/html.png">&nbsp;
@@ -28,7 +27,6 @@
   <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/python.png">&nbsp;
   
 </p>
-
 <p>- 🌱 Tenho interesse::</p>
 
 <p align="left">
@@ -54,5 +52,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/guiihcolusso)](https://twitter.com/guiihcolusso)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/MasTeer404)](https://www.youtube.com/c/MasTeer404)
 
-Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem 
+Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem.
+
 Copyright - Guilherme Colusso / Todos os direitos reservados.
