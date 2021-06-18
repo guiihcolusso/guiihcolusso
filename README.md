@@ -40,9 +40,6 @@
   <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/git.png">&nbsp;  
 </p>
 
-
-<br>
-
 <table align='left'>
   <row>
     <td>
@@ -53,7 +50,9 @@
       <img height='150' src='https://github-readme-stats.vercel.app/api?username=guiihcolusso&show_icons=true&theme=dark'>
     </td>
   </row>
-</table><
+</table>
+
+<br>
 
 <p>CONTATO</p>
 
