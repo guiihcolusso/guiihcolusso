@@ -43,6 +43,19 @@
 
 <br>
 
+<table align='left'>
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=guiihcolusso&layout=compact&theme=dark'>
+    </td>
+    <td>
+      <img height='150' src='https://github-readme-stats.vercel.app/api?username=guiihcolusso&show_icons=true&theme=dark'>
+    </td>
+  </row>
+</table>
+
+<br>
 
 
 ### CONTATO
@@ -55,16 +68,3 @@
 Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem.
 
 Copyright - Guilherme Colusso / Todos os direitos reservados.
-
-<br>
-<table align='left'>
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=guiihcolusso&layout=compact&theme=dark'>
-    </td>
-    <td>
-      <img height='150' src='https://github-readme-stats.vercel.app/api?username=guiihcolusso&show_icons=true&theme=dark'>
-    </td>
-  </row>
-</table>
