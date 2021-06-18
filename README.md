@@ -24,7 +24,7 @@
   <!-- Java Icon -->
   <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/java.png">&nbsp;
   <!-- Python Icon -->
-  <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/python.png">&nbsp;
+  <img height='30' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/python.png">&nbsp;
   
 </p>
 <p>- 🌱 Tenho interesse::</p>
