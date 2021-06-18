@@ -45,7 +45,7 @@
   <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/git.png">&nbsp;  
 </p>
 
-<br><br><br>
+<br>
 
 ### CONTATO
 
@@ -53,7 +53,7 @@
 
 <p>Copyright - Guilherme Colusso / Todos os direitos reservados.</p>
 
-<br><br><br>
+<br>
 
 <table align='left'>
   <row>
@@ -66,5 +66,3 @@
     </td>
   </row>
 </table>
-
-<br><br><br><br><br><br><br><br>
