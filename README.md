@@ -47,6 +47,14 @@
 
 <br><br><br>
 
+### CONTATO
+
+<p>Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem.</p>
+
+<p>Copyright - Guilherme Colusso / Todos os direitos reservados.</p>
+
+<br><br><br>
+
 <table align='left'>
   <row>
     <td>
@@ -60,9 +68,3 @@
 </table>
 
 <br><br><br><br><br><br><br><br>
-
-### CONTATO
-
-<p>Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem.</p>
-
-<p>Copyright - Guilherme Colusso / Todos os direitos reservados.</p>
