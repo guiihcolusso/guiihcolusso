@@ -6,6 +6,7 @@
 
 <p>Meu nome é Guilherme Tenho 18 anos, comecei minha carreira em desenvolvimento de sistemas no final de 2015, desde então buscando aprimorar mais meu conhecimento. Sempre em busca de uma oportunidade de colocar em prática o que já aprendi.</p>
 
+<br><br>
 
 ### INFORMAÇÕES
 
