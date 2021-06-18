@@ -13,7 +13,22 @@ Meu nome é Guilherme Tenho 18 anos, comecei minha carreira em desenvolvimento d
 
 
 - 🔭 Estou trabalhando no Projeto -  Demo Day Instituto PROA
-- 🌱 Estou aprendendo: Java
+- 🌱 Estou aprendendo: 
+
+<p align="left">
+  <!-- HTML Icon -->
+  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/html.png?raw=true">&nbsp;
+  <!-- CSS Icon -->
+  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/css.png?raw=true">&nbsp;
+  <!-- JS Icon -->
+  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/js.png?raw=true">&nbsp;
+  <!-- React Icon -->
+  <img height='40' src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/python.png?raw=true">&nbsp;
+  <!-- Git Icon -->
+  <img src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/git.png?raw=true">&nbsp;
+  
+</p>
+
 - 📫 E-mail para contato: guiihcolusso.dev@gmail.com
 
 
