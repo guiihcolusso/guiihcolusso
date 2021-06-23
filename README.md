@@ -16,9 +16,9 @@
 ### INFORMAÇÕES
 
 
-<p>- 🔭 Estou trabalhando no Projeto : Demo Day Instituto PROA</p>
-<p>- 📫 E-mail para contato : guiihcolusso.dev@gmail.com</p>
-<p>- :stars: META : Fullstack Developer</p>
+<p>- 🔭 Estou trabalhando no Projeto - Demo Day Instituto PROA</p>
+<p>- 📫 E-mail para contato - guiihcolusso.dev@gmail.com</p>
+<p>- :stars: META - Fullstack Developer</p>
 <br>
 <p>- 🌱 Estou aprendendo:</p> <p align="left">
   <!-- HTML Icon -->
