@@ -16,9 +16,9 @@
 ### INFORMAÇÕES
 
 
-<p>- 🔭 Estou trabalhando no Projeto : MasterBOT - NodeJS</p>
+<p>- 🔭 Estou trabalhando no Projeto : ...</p>
 <p>- 📫 E-mail para contato : guiihcolusso.dev@gmail.com</p>
-<p>- :stars: Meta : Fullstack Developer</p>
+
 <br>
 <p>- 🌱 Estou aprendendo:</p> <p align="left">
   <!-- HTML Icon -->
