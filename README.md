@@ -9,7 +9,7 @@
 
 ### SOBRE MIM
 
-<p>Meu nome é Guilherme tenho 19 anos, Sempre em busca de uma oportunidade de colocar em prática o que já aprendi.</p>
+<p>Meu nome é Guilherme tenho 20 anos, Sempre em busca de uma oportunidade de colocar em prática o que já aprendi.</p>
 
 <br><br>
 
