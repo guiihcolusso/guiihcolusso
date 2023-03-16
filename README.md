@@ -23,11 +23,11 @@
 
 <p>- 🌱 Desenvolvo:</p> <p align="left">
   
-    <!-- JS Icon -->
+  <!-- JS Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/js.png">&nbsp;  
   <!-- Node Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/nodejs.png">&nbsp;
-   <!-- HTML Icon -->
+  <!-- HTML Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/html.png">&nbsp;
   <!-- CSS Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/css.png">&nbsp;
