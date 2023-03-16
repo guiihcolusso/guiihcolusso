@@ -24,12 +24,12 @@ Vamos juntos construir soluções inovadoras e transformar o mundo através da t
   
 </p>
 
-<br><br>
+<br>
 
 ### INFORMAÇÕES
 
-<p>- 🔭 Estou trabalhando no Projeto : ...</p>
-<p>- 📫 E-mail para contato : guiihcolusso.dev@gmail.com</p>
+<p>- 🔭 Estou trabalhando no Projeto : AprendKids - Projeto Integrador Senac </p>
+<p>- 📫 E-mail para contato : guiihcolusso@gmail.com</p>
 
 <br>
 
