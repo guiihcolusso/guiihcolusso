@@ -1,12 +1,13 @@
 <h1  align="center"> Olá, tudo Bem? :D</h1>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444444&height=120&section=header"/>
-<br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guiihcolusso)](https://github.com/guiihcolusso)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiihpcolusso/)](https://www.linkedin.com/in/guiihpcolusso/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/guiihcolusso)](https://twitter.com/guiihcolusso)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/MasTeer404)](https://www.youtube.com/c/MasTeer404)
+
+<br>
 
 <img align="right" src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/user.png" width="300"/>
 
