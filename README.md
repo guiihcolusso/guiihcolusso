@@ -35,7 +35,7 @@ Vamos juntos construir soluções inovadoras e transformar o mundo através da t
 
 <br>
 
-<p>- 🌱 Desenvolvo:</p> <p align="left">
+<p>- 💓 Desenvolvo:</p> <p align="left">
   <!-- JS Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/js.png">&nbsp;  
   <!-- Node Icon -->
@@ -44,7 +44,7 @@ Vamos juntos construir soluções inovadoras e transformar o mundo através da t
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/html.png">&nbsp;
   <!-- CSS Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/css.png">&nbsp;
-<p>- 🌱 Estou aprendendo:</p> <p align="left">
+<p>- 🙋‍♂️ Estou aprendendo:</p> <p align="left">
   <!-- Python Icon -->
   <img height='30' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/python.png">&nbsp;
   <!-- React.JS Icon -->
