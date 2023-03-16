@@ -11,7 +11,19 @@
 
 ### SOBRE MIM
 
-<p>Meu nome é Guilherme tenho 20 anos, Sempre em busca de uma oportunidade de colocar em prática o que já aprendi.</p>
+<p>
+
+  Seja bem-vindo ao meu perfil no Github! Meu nome é Guilherme, sou estudante de Engenharia de Software e estou sempre em busca de novos desafios e oportunidades de aprendizado na área.
+
+Aqui no meu repositório você encontrará projetos e trabalhos que desenvolvi ao longo da minha jornada acadêmica e profissional, utilizando diversas linguagens de programação e tecnologias.
+
+Além disso, também estou aberto a colaborações e sugestões de melhorias nos meus projetos, afinal, acredito que a troca de conhecimento é fundamental para o crescimento de todos na comunidade de desenvolvimento de software.
+
+Sinta-se à vontade para explorar meu perfil e entrar em contato comigo caso queira discutir algum projeto ou ideia em conjunto.
+
+Vamos juntos construir soluções inovadoras e transformar o mundo através da tecnologia!
+  
+</p>
 
 <br><br>
 
