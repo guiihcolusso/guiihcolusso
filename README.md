@@ -22,7 +22,6 @@
 <br>
 
 <p>- 🌱 Desenvolvo:</p> <p align="left">
-  
   <!-- JS Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/js.png">&nbsp;  
   <!-- Node Icon -->
@@ -31,20 +30,15 @@
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/html.png">&nbsp;
   <!-- CSS Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/css.png">&nbsp;
-
 <p>- 🌱 Estou aprendendo:</p> <p align="left">
-
   <!-- Python Icon -->
   <img height='30' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/python.png">&nbsp;
   <!-- React.JS Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/react.png">&nbsp;
-
-  
 </p>
 <p>- 🌱 Tenho interesse::</p>
 
 <p align="left">
- 
   <!-- Java Icon -->
   <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/java.png">&nbsp;
   <!-- django Icon -->
