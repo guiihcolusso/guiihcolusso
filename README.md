@@ -28,7 +28,6 @@ Vamos juntos construir soluções inovadoras e transformar o mundo através da t
 
 ### INFORMAÇÕES
 
-
 <p>- 🔭 Estou trabalhando no Projeto : ...</p>
 <p>- 📫 E-mail para contato : guiihcolusso.dev@gmail.com</p>
 
