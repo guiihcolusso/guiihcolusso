@@ -9,7 +9,6 @@
 
 <img align="right" src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/user.png" width="300"/>
 
-### SOBRE MIM
 
 <p>
 
