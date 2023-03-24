@@ -30,7 +30,7 @@ Vamos juntos construir soluções inovadoras e transformar o mundo através da t
 
 ### INFORMAÇÕES
 
-<p>- 🔭 Estou trabalhando no Projeto : <strong>AprendKids - Projeto Integrador Senac </strong> </p>
+<p>- 🔭 Estou trabalhando no Projeto : <strong>AprendKids - Projeto Integrador Senac</strong> </p>
 <p>- 📫 E-mail para contato : <strong>guiihcolusso@gmail.com</strong></p>
 
 <br>
