@@ -43,14 +43,22 @@ Vamos juntos construir soluções inovadoras e transformar o mundo através da t
   <!-- Java Icon -->
   <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/java.png">&nbsp;
 <p>- 🙋‍♂️ Estou aprendendo:</p> <p align="left">
+  <!-- TS Icon -->
+  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/ts.png">&nbsp;
   <!-- React.JS Icon -->
   <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/react.png">&nbsp;
+  <!-- NextJS Icon -->
+  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/nextJS.png">&nbsp;
 </p>
 <p>- 🌱 Tenho interesse::</p>
 
 <p align="left">
   <!-- django Icon -->
   <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/django.png">&nbsp;
+  <!-- HTML Icon -->
+  <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/html.png">&nbsp;
+  <!-- CSS Icon -->
+  <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/css.png">&nbsp;
 </p>
 
 <br>
