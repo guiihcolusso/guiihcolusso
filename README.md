@@ -22,7 +22,9 @@
 
 ### INFORMAÇÕES
 
-<p>- 🔭 Estou trabalhando no Projeto : <strong>OasisBOT - Bot para automação de funções no WhatsApp, integrando API de figurinhas, gerenciamento de dados financeiros e outras funcionalidades.</strong> </p>
+<p>- 🔭 Estou trabalhando no Projeto : 
+  <strong>OasisBOT - Bot para automação de funções no WhatsApp, integrando API de figurinhas, gerenciamento de dados financeiros e outras funcionalidades.</strong> </p>
+  
 <p>- 📫 E-mail para contato : <strong>guiihcolusso@gmail.com</strong></p>
 
 <br>
