@@ -1,76 +1,82 @@
-<h1  align="center"> Olá, tudo Bem? :D</h1>
+<!-- GitHub Profile README - Guilherme Colusso -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444444&height=120&section=header"/>
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guiihcolusso)](https://github.com/guiihcolusso)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guiihpcolusso/)](https://www.linkedin.com/in/guiihpcolusso/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/guiihcolusso)](https://twitter.com/guiihcolusso)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/MasTeer404)](https://www.youtube.com/c/MasTeer404)
-
-<br>
-
-<img align="right" src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/user.png" width="300"/>
-
-
-<p>
-
-  Seja bem-vindo ao meu perfil no GitHub! Meu nome é Guilherme, sou estudante de Engenharia de Software e estou sempre em busca de novos desafios e oportunidades de aprendizado.
-
+<h1 align="center">👨‍💻 Guilherme Colusso</h1>
+<p align="center">
+  Engenheiro de Software • Backend & DevOps • IA & Arquitetura de Sistemas
 </p>
 
-<br>
-
-### INFORMAÇÕES
-
-<p>- 🔭 Estou trabalhando no Projeto : 
-  <strong>OasisBOT - Bot para automação de funções no WhatsApp</strong> </p>
-  
-<p>- 📫 E-mail para contato : <strong>guiihcolusso@gmail.com</strong></p>
-
-<br>
-
-<p>- 💓 Desenvolvo:</p> <p align="left">
-  <!-- Node Icon -->
-  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/nodejs.png">&nbsp;
-  <!-- Python Icon -->
-  <img height='30' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/python.png">&nbsp;
-  <!-- Java Icon -->
-  <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/java.png">&nbsp;
-<p>- 🙋‍♂️ Estou aprendendo:</p> <p align="left">
-  <!-- TS Icon -->
-  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/ts.png">&nbsp;
-  <!-- React.JS Icon -->
-  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/react.png">&nbsp;
-  <!-- NextJS Icon -->
-  <img src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/nextJS.png">&nbsp;
-</p>
-<p>- 🌱 Tenho interesse::</p>
-
-<p align="left">
-  <!-- HTML Icon -->
-  <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/html.png">&nbsp;
-  <!-- CSS Icon -->
-  <img height='40' src="https://raw.githubusercontent.com/guiihcolusso/guiihcolusso/main/icons/css.png">&nbsp;
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=444444&height=120&section=header"/>
 </p>
 
-<br>
+---
 
-### CONTATO
+### 🚀 Sobre mim
 
-<p>Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza me mande uma mensagem.</p>
+Sou Engenheiro de Software com atuação sólida em desenvolvimento backend, DevOps e inteligência artificial.  
+Tenho experiência com tecnologias como **NestJS**, **Python**, **Java**, infraestrutura **Linux** e nuvem (**AWS**, **Azure**).  
+Busco criar soluções seguras, escaláveis e eficientes — com foco em desempenho, automação e boas práticas de arquitetura.
 
-<p>Copyright - Guilherme Colusso / Todos os direitos reservados.</p>
+---
 
-<br>
+### 🧠 Áreas de atuação
 
-<table align='left'>
-  <row>
-    <td>
-     <!-- Card -->
-      <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=guiihcolusso&layout=compact&theme=dark'>
-    </td>
-    <td>
-      <img height='150' src='https://github-readme-stats.vercel.app/api?username=guiihcolusso&show_icons=true&theme=dark'>
-    </td>
-  </row>
-</table>
+- ⚙️ **Backend/API:** Node.js, NestJS, Python, Java  
+- ☁️ **Cloud & Infraestrutura:** AWS, Azure, Proxmox, Docker, OPNsense  
+- 🔐 **Segurança:** Firewalls, proxies, túnel seguro, hardening  
+- 🧠 **Inteligência Artificial:** automações com LLMs e análise de dados  
+- 🛠️ **DevOps:** Linux, CI/CD, GitHub Actions, monitoramento  
+- 🐘 **Bancos de Dados:** PostgreSQL, MySQL, Prisma ORM  
+- 🧪 **Testes:** Jest, Supertest
+
+---
+
+### 🧰 Tecnologias e Ferramentas
+
+**Stacks principais:**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+**Infraestrutura e DevOps:**
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+---
+
+### 🚧 Projetos em destaque
+
+- 🔹 [OasisBot](https://github.com/guiihcolusso/oasisbot): Bot de automação para WhatsApp com Node.js e IA  
+- 🔹 [Servidor DevOps](https://github.com/guiihcolusso/devops-stack): Infraestrutura automatizada com Proxmox, OPNsense, Docker e monitoramento
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guiihcolusso&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiihcolusso&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=guiihcolusso&theme=radical" height="165"/>
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/guiihpcolusso/)
+- 📺 [YouTube](https://www.youtube.com/c/MasTeer404)
+- 💌 Email: **guiihcolusso@gmail.com**
+
+---
+
+> 💡 *"Não escrevo apenas código. Entrego soluções reais que geram valor e transformam ambientes."*
