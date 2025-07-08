@@ -22,7 +22,7 @@ Busco criar soluções seguras, escaláveis e eficientes — com foco em desempe
 ### 🧠 Áreas de atuação
 
 - ⚙️ **Backend/API:** Node.js, NestJS, Python, Java  
-- ☁️ **Cloud & Infraestrutura:** AWS, Azure, Proxmox, Docker, OPNsense  
+- ☁️ **Cloud & Infraestrutura:** AWS (EC2, S3, Lambda, RDS), Azure, Proxmox, Docker, OPNsense  
 - 🔐 **Segurança:** Firewalls, proxies, túnel seguro, hardening  
 - 🧠 **Inteligência Artificial:** automações com LLMs e análise de dados  
 - 🛠️ **DevOps:** Linux, CI/CD, GitHub Actions, monitoramento  
@@ -64,9 +64,8 @@ Busco criar soluções seguras, escaláveis e eficientes — com foco em desempe
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guiihcolusso&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiihcolusso&layout=compact&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=guiihcolusso&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guiihcolusso&show_icons=true&theme=radical" height="140" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiihcolusso&layout=compact&theme=radical" height="140" style="display:inline-block;"/>
 </p>
 
 ---
